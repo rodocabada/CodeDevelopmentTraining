@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj",
+      "projectUniqueName": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj",
       "projectName": "PhoneBook.BL",
-      "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj",
+      "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj",
       "packagesPath": "C:\\Users\\1480205\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\GB\\PhoneBook\\PhoneBook.BL\\obj\\",
+      "outputPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

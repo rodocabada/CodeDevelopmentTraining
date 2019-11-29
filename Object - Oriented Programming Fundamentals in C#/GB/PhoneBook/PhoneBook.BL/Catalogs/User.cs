@@ -4,8 +4,17 @@ using System.Text;
 
 namespace PhoneBook.BL.Catalogs
 {
-    public class User
+    public class User : BaseData
     {
+        public User() : this(id: 0)
+        {
+
+        }
+
+        public User(int id)
+        {
+            Id = id;
+        }
         public int Id { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }

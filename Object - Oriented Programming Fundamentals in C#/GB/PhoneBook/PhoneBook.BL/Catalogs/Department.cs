@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PhoneBook.BL.Catalogs
 {
-    public class Department
+    public class Department : BaseData
     {
         public int Id { get; set; }
         public string Description { get; set; }
