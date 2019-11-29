@@ -1,7 +1,16 @@
 ﻿namespace PhoneBook.BL.Entities
 {
-    public class User
+    public class User : BaseData
     {
+        public User() : this(0)
+        {
+        }
+
+        public User(int id)
+        {
+            Id = id;
+        }
+
         public int Id { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }

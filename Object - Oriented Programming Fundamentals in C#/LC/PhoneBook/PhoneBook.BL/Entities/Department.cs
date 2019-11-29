@@ -1,7 +1,16 @@
 ﻿namespace PhoneBook.BL.Entities
 {
-    public class Department
+    public class Department : BaseData
     {
+        public Department() : this(0)
+        {
+        }
+
+        public Department(int id)
+        {
+            Id = id;
+        }
+
         public int Id { get; set; }
         public string Description { get; set; }
         public int CostCenter { get; set; }

@@ -6,3 +6,4 @@ D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - 
 D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.AssemblyInfo.cs
 D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.dll
 D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.pdb
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.csprojAssemblyReference.cache
