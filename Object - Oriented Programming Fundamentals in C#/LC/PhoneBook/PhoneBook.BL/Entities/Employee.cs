@@ -1,8 +1,8 @@
-﻿namespace PhoneBook.BL.Catalogs
+﻿namespace PhoneBook.BL.Entities
 {
     public class Employee
     {
-        public int Id { get; set; }
+        public int Id { get; private set; }
         public int EmployeeNumber { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -15,5 +15,13 @@
         public int IdShift { get; set; }
         public int IdJob { get; set; }
         public int IdDepartment { get; set; }
+
+        public string FullName
+        {
+            get
+            {
+                return $"{FirstName} {LastName} {SecondLastName}";
+            }
+        }
     }
 }

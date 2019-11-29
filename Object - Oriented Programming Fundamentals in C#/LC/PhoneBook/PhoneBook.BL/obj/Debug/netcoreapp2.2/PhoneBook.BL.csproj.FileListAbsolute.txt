@@ -1,0 +1,8 @@
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.2\PhoneBook.BL.deps.json
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.2\PhoneBook.BL.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.2\PhoneBook.BL.pdb
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.csproj.CoreCompileInputs.cache
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.AssemblyInfoInputs.cache
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.AssemblyInfo.cs
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.2\PhoneBook.BL.pdb

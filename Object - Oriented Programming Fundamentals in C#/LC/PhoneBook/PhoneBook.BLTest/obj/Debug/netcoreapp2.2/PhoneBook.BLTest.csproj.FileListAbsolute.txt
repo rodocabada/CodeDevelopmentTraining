@@ -1,0 +1,17 @@
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BLTest.deps.json
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BLTest.runtimeconfig.json
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BLTest.runtimeconfig.dev.json
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BLTest.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BLTest.pdb
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BL.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\bin\Debug\netcoreapp2.2\PhoneBook.BL.pdb
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.csprojAssemblyReference.cache
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.csproj.CoreCompileInputs.cache
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.AssemblyInfoInputs.cache
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.AssemblyInfo.cs
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.csproj.CopyComplete
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.dll
+D:\apps\Projects\Code Development Training\Git\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\LC\PhoneBook\PhoneBook.BLTest\obj\Debug\netcoreapp2.2\PhoneBook.BLTest.pdb

@@ -1,4 +1,4 @@
-﻿namespace PhoneBook.BL.Catalogs
+﻿namespace PhoneBook.BL.Entities
 {
     public class UserType
     {
