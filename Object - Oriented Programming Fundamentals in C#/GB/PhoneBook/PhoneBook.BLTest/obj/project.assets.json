@@ -1677,11 +1677,24 @@
       "PhoneBook.BL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "PhoneBook.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PhoneBook.BL.dll": {}
         },
         "runtime": {
           "bin/placeholder/PhoneBook.BL.dll": {}
+        }
+      },
+      "PhoneBook.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PhoneBook.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhoneBook.Common.dll": {}
         }
       }
     }
@@ -5853,6 +5866,11 @@
       "type": "project",
       "path": "../PhoneBook.BL/PhoneBook.BL.csproj",
       "msbuildProject": "../PhoneBook.BL/PhoneBook.BL.csproj"
+    },
+    "PhoneBook.Common/1.0.0": {
+      "type": "project",
+      "path": "../PhoneBook.Common/PhoneBook.Common.csproj",
+      "msbuildProject": "../PhoneBook.Common/PhoneBook.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5871,11 +5889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\PhoneBook.BLTest.csproj",
+      "projectUniqueName": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTraining\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\PhoneBook.BLTest.csproj",
       "projectName": "PhoneBook.BLTest",
-      "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\PhoneBook.BLTest.csproj",
+      "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTraining\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\PhoneBook.BLTest.csproj",
       "packagesPath": "C:\\Users\\1480205\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\obj\\",
+      "outputPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTraining\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BLTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5894,8 +5912,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj": {
-              "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTrainingMIT\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj"
+            "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTraining\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj": {
+              "projectPath": "C:\\Users\\1480205\\Desktop\\Proyectos\\CursoPluralsight\\CodeDevelopmentTraining\\Object - Oriented Programming Fundamentals in C#\\GB\\PhoneBook\\PhoneBook.BL\\PhoneBook.BL.csproj"
             }
           }
         }

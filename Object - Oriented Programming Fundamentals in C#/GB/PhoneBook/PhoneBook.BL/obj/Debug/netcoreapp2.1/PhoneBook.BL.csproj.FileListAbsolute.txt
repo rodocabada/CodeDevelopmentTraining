@@ -7,3 +7,15 @@ C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTrainingMIT\G
 C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTrainingMIT\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.dll
 C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTrainingMIT\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.pdb
 C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTrainingMIT\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.csprojAssemblyReference.cache
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.1\PhoneBook.BL.deps.json
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.1\PhoneBook.BL.dll
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.1\PhoneBook.BL.pdb
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.1\PhoneBook.Common.dll
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\bin\Debug\netcoreapp2.1\PhoneBook.Common.pdb
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.csprojAssemblyReference.cache
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.csproj.CoreCompileInputs.cache
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.AssemblyInfoInputs.cache
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.AssemblyInfo.cs
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.csproj.CopyComplete
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.dll
+C:\Users\1480205\Desktop\Proyectos\CursoPluralsight\CodeDevelopmentTraining\Object - Oriented Programming Fundamentals in C#\GB\PhoneBook\PhoneBook.BL\obj\Debug\netcoreapp2.1\PhoneBook.BL.pdb

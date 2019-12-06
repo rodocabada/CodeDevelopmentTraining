@@ -1,11 +1,13 @@
-﻿using System;
+﻿using PhoneBook.BL.Interfaces;
+using PhoneBook.Common;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace PhoneBook.BL.Catalogs
 {
 
-    public class Employee : BaseData
+    public class Employee : IBaseData , ILogger
     {
         public Employee():this(id:0)
         {
@@ -33,7 +35,6 @@ namespace PhoneBook.BL.Catalogs
 
         private string _email;
         private string _shortNumber;
-        private int myVar;
 
         public string Email
         {
@@ -55,6 +56,9 @@ namespace PhoneBook.BL.Catalogs
             }
         }
 
+        public int? UserLastUpdated { get; set; }
+        public DateTime? LastUpdated { get; set; }
+
         public bool IsValidEmail(string email)
         {
             try
@@ -73,7 +77,7 @@ namespace PhoneBook.BL.Catalogs
             try
             {
                 var lenght = shortNumber.Length;
-                if (!(lenght == 4 && IsNumeric(shortNumber)))
+                if (!(lenght == 4 && shortNumber.IsNumeric()))
                 {
                     return false;
                 }
@@ -85,12 +89,7 @@ namespace PhoneBook.BL.Catalogs
                 return false;
             }
         }
-        public static bool IsNumeric(string s)
-        {
-            int output;
-            return int.TryParse(s, out output);
-        }
 
-        
+        public string Log() => $"{Id} {EmployeeNumber} {FullName}";
     }
 }

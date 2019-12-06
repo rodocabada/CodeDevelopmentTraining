@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook.BL", "PhoneBook.B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{5BCDD4E1-F116-42A8-BFC7-BD74F42D6E98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.BLTest", "PhoneBook.BLTest\PhoneBook.BLTest.csproj", "{09B03C60-5726-4C2B-94D5-498255293F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook.BLTest", "PhoneBook.BLTest\PhoneBook.BLTest.csproj", "{09B03C60-5726-4C2B-94D5-498255293F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.Common", "PhoneBook.Common\PhoneBook.Common.csproj", "{6732A2CD-DB4A-45EE-861F-BD3EDDB0BCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookCommonTest", "PhoneBookCommonTest\PhoneBookCommonTest.csproj", "{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +27,21 @@ Global
 		{09B03C60-5726-4C2B-94D5-498255293F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09B03C60-5726-4C2B-94D5-498255293F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09B03C60-5726-4C2B-94D5-498255293F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6732A2CD-DB4A-45EE-861F-BD3EDDB0BCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6732A2CD-DB4A-45EE-861F-BD3EDDB0BCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6732A2CD-DB4A-45EE-861F-BD3EDDB0BCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6732A2CD-DB4A-45EE-861F-BD3EDDB0BCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{09B03C60-5726-4C2B-94D5-498255293F65} = {5BCDD4E1-F116-42A8-BFC7-BD74F42D6E98}
+		{ADBC5F52-FCD1-4F1F-AADD-35F6EAB833CC} = {5BCDD4E1-F116-42A8-BFC7-BD74F42D6E98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1E2CAEF-D6CB-44BE-A21E-C184C7D02D91}
